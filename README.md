@@ -6,7 +6,7 @@
 <b>Figure 1.</b> Overall ETSformer Architecture.
 </p>
 
-Official PyTorch code repository for the [SGEformer paper]().
+Official PyTorch code repository for the [SGEformer paper](https://doi.org/10.1109/ACCESS.2024.3357736).
 
 ## Requirements
 
@@ -30,4 +30,10 @@ Official PyTorch code repository for the [SGEformer paper]().
 4. The script for grid search is also provided, and can be run by `./grid_search.sh`.
 
 ## Citation
-
+Please consider citing if you find this code useful to your research.
+<pre>@article{woo2022etsformer,
+    title={State-of-Health Prediction of Lithium-Ion Batteries Using Exponential Smoothing Transformer With Seasonal and Growth Embedding},
+    author={Gerald Woo and Chenghao Liu and Doyen Sahoo and Akshat Kumar and Steven C. H. Hoi},
+    year={2022},
+    url={https://doi.org/10.1109/ACCESS.2024.3357736},
+}</pre>
