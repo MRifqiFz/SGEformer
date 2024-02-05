@@ -3,7 +3,7 @@
 <p align="center">
 <img src="./pics/SGEFormer Architecture.png" width = "700" alt="" align=center />
 <br><br>
-<b>Figure 1.</b> Overall ETSformer Architecture.
+<b>Figure 1.</b> Overall SGEformer Architecture.
 </p>
 
 Official PyTorch code repository for the [SGEformer paper](https://doi.org/10.1109/ACCESS.2024.3357736).
