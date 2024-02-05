@@ -16,18 +16,16 @@ Official PyTorch code repository for the [SGEformer paper](https://doi.org/10.11
 ## Data
 
 * Pre-processed datasets can be downloaded from the following
-  links, [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/d/e1ccfff39ad541908bae/)
-  or [Google Drive](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy?usp=sharing), as obtained
-  from [Autoformer's](https://github.com/thuml/Autoformer) GitHub repository.
-* Place the downloaded datasets into the `dataset/` folder, e.g. `dataset/ETT-small/ETTm2.csv`.
+  links, [Google Drive](https://drive.google.com/drive/folders/19-F1TusCgXMsqzgDji1qIwh5PgAmTjNp?usp=drive_link), as obtained
+  from NASA Battery Dataset and CALCE Battery Dataset.
+* Place the downloaded datasets into the `dataset/` folder, e.g. `dataset/battery/B0005_rev.csv`.
 
 ## Usage
 
 1. Install the required dependencies.
 2. Download data as above, and place them in the folder, `dataset/`.
 3. Train the model. We provide the experiment scripts of all benchmarks under the folder `./scripts`,
-   e.g. `./scripts/ETTm2.sh`. You might have to change permissions on the script files by running`chmod u+x scripts/*`.
-4. The script for grid search is also provided, and can be run by `./grid_search.sh`.
+   e.g. `./scripts/battery.sh`. You might have to change permissions on the script files by running`chmod u+x scripts/*`.
 
 ## Citation
 Please consider citing if you find this code useful to your research.
