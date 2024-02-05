@@ -31,9 +31,10 @@ Official PyTorch code repository for the [SGEformer paper](https://doi.org/10.11
 
 ## Citation
 Please consider citing if you find this code useful to your research.
-<pre>@article{10412053,
-    title={State-of-Health Prediction of Lithium-Ion Batteries Using Exponential Smoothing Transformer With Seasonal and Growth Embedding},
-    author={Muhammad Rifqi Fauzi and Novanto Yudistira and Wayan Firdaus Mahmudy},
-    year={2024},
-    url={https://doi.org/10.1109/ACCESS.2024.3357736},
+<pre>@article{fauzi2024state,
+  title={State-of-Health Prediction of Lithium-Ion Batteries using Exponential Smoothing Transformer with Seasonal and Growth Embedding},
+  author={Fauzi, Muhammad Rifqi and Yudistira, Novanto and Mahmudy, Wayan Firdaus},
+  journal={IEEE Access},
+  year={2024},
+  publisher={IEEE}
 }</pre>
