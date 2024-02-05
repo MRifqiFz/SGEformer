@@ -32,7 +32,7 @@ Official PyTorch code repository for the [SGEformer paper](https://doi.org/10.11
 ## Citation
 Please consider citing if you find this code useful to your research.
 <pre>@article{10412053,
-    title={ETSformer: Exponential Smoothing Transformers for Time-series Forecasting},
+    title={State-of-Health Prediction of Lithium-Ion Batteries Using Exponential Smoothing Transformer With Seasonal and Growth Embedding},
     author={Muhammad Rifqi Fauzi and Novanto Yudistira and Wayan Firdaus Mahmudy},
     year={2024},
     url={https://doi.org/10.1109/ACCESS.2024.3357736},
